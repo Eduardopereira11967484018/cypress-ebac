@@ -1,0 +1,10 @@
+{
+  "newContact": {
+   "name": "Eduardo",
+  "email": "eduardo.lima@email.com",
+  "phone": "12334565"
+},
+"updateContact":{
+  "name": "Eduardo editSo"
+ }
+}
